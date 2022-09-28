@@ -1,3 +1,3 @@
 Array is Data Structure.
 Array can store single data type values only!
-
+int arr[] = {1,2,3,4,5,6};
