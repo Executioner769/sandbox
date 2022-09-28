@@ -1,7 +1,3 @@
-# sandbox
-
-Empty Repository for Sand boxing and Learn Git
-
 ## Git Commands
 
 -   git init
